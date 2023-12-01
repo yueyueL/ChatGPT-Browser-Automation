@@ -1,0 +1,5 @@
+I give you a list of vscode extension ids, you need to help me summarize what this vscode extension do.
+iolevel.peachpie-vscode
+patbenatar.advanced-new-file
+jithurjacob.nbpreviewer
+fabioz.vscode-pydev
