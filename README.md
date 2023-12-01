@@ -106,6 +106,15 @@ target_url = "https://chat.openai.com/g/g-kB3tDzYUb-academic-writing-assistant"
 chathead = ChatGPTClient(username="your_email@gmail.com", password="your_password", skip_login=True, incognito=False, headless=False, login_type="normal", user_data_dir='/path/to/your/user/', target_url=target_url)
 ```
 
+### Analyzing Multiple Files
+To efficiently analyze multiple files using ChatGPT-Browser-Automation, follow these steps:
+
+- Prepare Your Files: Organize the files you need to analyze.
+- Upload to GPT Knowledge Base: Upload these files to your GPT model's knowledge base.
+- Automate Prompts: Use ChatGPT-AutoBot-Chrome to send automated prompts for each file.
+- Collect Responses: Analyze the automated responses collected from the GPT model.
+
+This approach streamlines the analysis process, leveraging the power of GPT models with minimal manual effort.
 
 ## Acknowledgment
 
