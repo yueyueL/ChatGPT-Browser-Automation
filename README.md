@@ -1,7 +1,7 @@
-# ChatGPT-AutoBot-Chrome
+# ChatGPT-Browser-Automation
 
 ## Introduction
-ChatGPT-AutoBot-Chrome is a Python tool that makes it easy to automatically chat with AI systems like Google's Bard, HuggingFace's services, and OpenAI's various ChatGPT models. It builds on previous work from the [TalkingHeads](https://github.com/ugorsahin/TalkingHeads) project to streamline and automate the process of prompting, sending, and collecting responses from AI chatbots.
+ChatGPT-Browser-Automation is a Python tool that makes it easy to automatically chat with AI systems like Google's Bard, HuggingFace's services, and OpenAI's various ChatGPT models. It builds on previous work from the [TalkingHeads](https://github.com/ugorsahin/TalkingHeads) project to streamline and automate the process of prompting, sending, and collecting responses from AI chatbots.
 
 The main benefit of ChatGPT-AutoBot-Chrome is it saves you time by automating repetitive tasks. Instead of manually typing prompts over and over, you can use this tool to automatically manage those interactions for you. This is really helpful if you need to chat extensively with AI models, like for collecting data, doing research, or asking lots of questions. 
 
@@ -17,8 +17,8 @@ The main benefit of ChatGPT-AutoBot-Chrome is it saves you time by automating re
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yueyueL/ChatGPT-AutoBot-Chrome
-cd ChatGPT-AutoBot-Chrome
+git clone https://github.com/yueyueL/ChatGPT-Browser-Automation
+cd ChatGPT-Browser-Automation
 ```
 Install required dependencies:
 ```bash
