@@ -110,9 +110,9 @@ chathead = ChatGPTClient(username="your_email@gmail.com", password="your_passwor
 To efficiently analyze multiple files using ChatGPT-Browser-Automation, follow these steps:
 
 - Prepare Your Files: Organize the files you need to analyze.
-- Upload to GPT Knowledge Base: Upload these files to your GPT model's knowledge base.
-- Automate Prompts: Use ChatGPT-AutoBot-Chrome to send automated prompts for each file.
-- Collect Responses: Analyze the automated responses collected from the GPT model.
+- Upload to GPT Knowledge: Create a GPTs, and upload these files to your GPT model's knowledge base.
+- Automate Prompts: Use ChatGPT-Browser-Automation to send automated prompts for each file.
+- Collect Responses: Analyze the automated responses collected from the GPTs.
 
 This approach streamlines the analysis process, leveraging the power of GPT models with minimal manual effort.
 
